@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  todochart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-30T18:01:57.343803672Z"
+    description: A Helm chart for Kubernetes
+    digest: 57248c2bd08e04d6e40b9743683a0372b6d18cd4fa676a5c1a86bf773105a47d
+    name: todochart
+    type: application
+    urls:
+    - todochart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-30T18:01:57.343356276Z"
